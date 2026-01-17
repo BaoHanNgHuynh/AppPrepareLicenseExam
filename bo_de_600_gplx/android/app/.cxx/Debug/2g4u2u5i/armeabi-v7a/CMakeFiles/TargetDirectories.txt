@@ -1,0 +1,2 @@
+D:/App_LaiXe/bo_de_600_gplx/android/app/.cxx/Debug/2g4u2u5i/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/App_LaiXe/bo_de_600_gplx/android/app/.cxx/Debug/2g4u2u5i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
